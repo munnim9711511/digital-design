@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.tide"
+    versionCode = "1"
+    version     = "1.0.0" >
+     <name>Tide App</name>
+     <description>
+            A mobile app for tide calculation
+    </description>
+    <author href="" email=" ">
+            Munnim
+    </author>
+    <platform name="android"/>
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="disallowOverscroll" value="true" />
+      <preference name="android-minSdkVersion" value="21" />
+  </widget>
